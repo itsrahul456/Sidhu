@@ -7,10 +7,10 @@
     "allowOffline": true
   },
   {
-    "id": "d83747179093c72f",
-    "username": "user2",
-    "password": "pass2",
-    "expiresAt": "2028-11-30",
-    "allowOffline": false
+    "id": "cd49ab610a71f225",
+    "username": "Sandeep",
+    "password": "Sandeep123",
+    "expiresAt": "2028-12-12",
+    "allowOffline": true
   }
 ]
